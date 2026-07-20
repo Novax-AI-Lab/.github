@@ -18,86 +18,51 @@
 
 Novax AI Lab is an AI research and product company based in Sierra Leone.
 
-Our mission is to make artificial intelligence accessible to every African by building technology that understands, speaks, and translates indigenous languages.
-
-We develop state-of-the-art AI models for speech, language, and multilingual communication, beginning with Sierra Leonean languages and expanding across Africa.
+Our mission is to make artificial intelligence accessible to every African by building technology that understands, speaks, and translates indigenous languages — beginning with Sierra Leonean languages and expanding across Africa.
 
 ---
 
-## 🚀 What We're Building
+## ✅ What We've Shipped
 
-### 🎙️ Speech-to-Text (STT)
+### 🎙️ Speech-to-Text (STT) — *Krio, beta*
+### 🔊 Text-to-Speech (TTS) — *Krio, beta*
 
-Convert spoken language into accurate text for African languages.
-
-- Krio
-- Mende *(coming soon)*
-- Temne *(coming soon)*
+Both are live in beta today. Feedback from real usage is shaping the next release.
 
 ---
 
-### 🔊 Text-to-Speech (TTS)
+## 🚧 What We're Building Next
 
-Natural, human-like AI voices that speak local languages.
+### More languages for STT & TTS
 
-Features include:
-
-- Natural pronunciation
-- High-quality neural voices
-- Real-time synthesis
-- Developer APIs
-
----
+- 🇸🇱 **Sierra Leone:** Mende, Temne, Fula, Soso, Limba
+- 🇱🇷 **Liberia:** Kpelle, Kissi
+- 🇬🇭 **Ghana:** Akan (Twi, Fante, Akuapem), Ewe, Dagbani
 
 ### 🌐 Machine Translation
 
-Breaking language barriers through AI.
-
-Current and future translation pairs include:
-
 - English ↔ Krio
-- Krio ↔ Mende
-- Krio ↔ Temne
-- Mende ↔ Temne
-- English ↔ African Languages
-
----
-
-### 🤖 AI Assistants
-
-Intelligent assistants that communicate naturally in local languages.
-
-Applications include:
-
-- Education
-- Healthcare
-- Government
-- Customer Support
-- Agriculture
-- Finance
-
----
+- Krio ↔ Mende, Krio ↔ Temne, Mende ↔ Temne
+- English ↔ other African languages (above)
 
 ### 🎧 Speech-to-Speech Translation
 
-Speak naturally.
+Speak naturally, listen naturally — no text step in between.
 
-Listen naturally.
+### 🤖 AI Assistants
 
-Communicate without language barriers.
+Applications planned for education, healthcare, government, customer support, agriculture, and finance.
 
 ---
 
 ## 🔬 Research Areas
 
 - Large Language Models (LLMs)
-- Speech Recognition
-- Text-to-Speech
+- Speech Recognition & Text-to-Speech
 - Speech Translation
 - Multilingual NLP
 - African Language AI
-- Machine Learning
-- Deep Learning
+- Machine Learning / Deep Learning
 - Generative AI
 - Voice Agents
 
@@ -105,68 +70,36 @@ Communicate without language barriers.
 
 ## 🌍 Why We Exist
 
-Over a billion people speak languages that modern AI barely understands.
-
-We're changing that.
-
-Our goal is to ensure African languages are first-class citizens in the age of artificial intelligence.
-
----
-
-## 💡 Our Vision
-
-Imagine a future where:
-
-- A student learns with AI in Krio.
-- A farmer receives advice in Temne.
-- A doctor communicates with patients in Mende.
-- Government services are available in every local language.
-- Anyone can interact with AI in the language they know best.
-
-That future starts here.
+Over a billion people speak languages that modern AI barely understands. We're changing that — ensuring African languages are first-class citizens in the age of AI.
 
 ---
 
 ## 🛠️ Open Source
 
-We believe open collaboration accelerates innovation.
-
-Our organization publishes:
+We believe open collaboration accelerates innovation. As models and datasets move out of beta, we plan to publish:
 
 - AI Models
 - Datasets
 - Training Pipelines
 - Research Projects
-- Developer Tools
-- APIs
+- Developer Tools & APIs
 - Sample Applications
 
-Contributions from researchers, developers, linguists, and students are always welcome.
+Contributions from researchers, developers, linguists, and students are welcome.
 
 ---
 
 ## 🤝 Collaborate With Us
 
-We're always looking to work with:
-
-- AI Researchers
-- Machine Learning Engineers
-- Linguists
-- Universities
-- NGOs
-- Governments
-- Startups
-- Open Source Contributors
+We're looking to work with AI researchers, ML engineers, linguists, universities, NGOs, governments, startups, and open source contributors.
 
 ---
 
 ## 📫 Connect
 
-🌐 Website: https://novaxailab.com
-
-🤗 Hugging Face: https://huggingface.co/Novax-AI-Lab
-
-💻 GitHub: https://github.com/Novax-AI-Lab
+🌐 Website: [novaxailab.com](https://novaxailab.com)
+🤗 Hugging Face: [huggingface.co/NovaxAI](https://huggingface.co/NovaxAI)
+💻 GitHub: [github.com/Novax-AI-Lab](https://github.com/Novax-AI-Lab)
 
 ---
 

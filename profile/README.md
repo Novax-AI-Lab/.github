@@ -98,7 +98,7 @@ We're looking to work with AI researchers, ML engineers, linguists, universities
 ## 📫 Connect
 
 🌐 Website: [novaxailab.com](https://novaxailab.com)
-🤗 Hugging Face: [[huggingface.co/NovaxAI](https://huggingface.co/NovaxAILab)]
+🤗 Hugging Face: [[huggingface.co/NovaxAILab](https://huggingface.co/NovaxAILab)]
 💻 GitHub: [github.com/Novax-AI-Lab](https://github.com/Novax-AI-Lab)
 
 ---
